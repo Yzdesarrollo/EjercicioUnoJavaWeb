@@ -1,2 +1,1 @@
-# EjercicioUnoJavaWeb
-Ejercicios de Cesde en Java Web
+# Ejercicio uno Java Web
